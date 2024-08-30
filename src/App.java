@@ -73,6 +73,9 @@ public class App {
                     System.out.println(c);
                 }
             }
+            else{
+                System.out.println("No names match that input.");
+            }
             
         }
         else if(selection.equalsIgnoreCase("D")){
